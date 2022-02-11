@@ -1,0 +1,15 @@
+h1{
+    font-family: serif;
+    text-align: center;
+    background-color:#3AAACF;
+    color: white;
+    padding: 5px;
+}
+body{
+    background-color: #216278;
+    color: white;
+}
+.carousel{
+    margin: auto; 
+    width: 60%;
+}
